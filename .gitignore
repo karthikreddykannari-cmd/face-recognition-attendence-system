@@ -1,0 +1,16 @@
+venv311/
+__pycache__/
+*.pyc
+
+known_faces/
+unknown_faces/
+
+attendance/
+database/
+
+*.xlsx
+*.csv
+*.pdf
+*.db
+*.sqlite
+*.sqlite3
