@@ -40,51 +40,48 @@ A Python-based attendance system that uses face recognition to identify register
 
 ```text
 FaceRecognitionSystem/
-│
-├── attendance/
-│   └── Attendance data
-│
-├── database/
-│   └── Database files
-│
-├── known_faces/
-│   └── Registered face images
-│
-├── unknown_faces/
-│   └── Unknown face images
-│
-├── screenshots/
-│   └── dashboard.png
-│
-├── attendance.py
-│   └── Attendance management
-│
-├── database.py
-│   └── Database operations
-│
-├── recognition.py
-│   └── Face recognition
-│
-├── register.py
-│   └── Face registration
-│
-├── utils.py
-│   └── Utility functions
-│
-├── main.py
-│   └── Main recognition system
-│
-├── dashboard.py
-│   └── GUI dashboard
-│
-├── app.py
-│   └── Application entry point
-│
-├── requirements.txt
-│   └── Python dependencies
-│
-├── README.md
-│   └── Project documentation
-│
-└── .gitignore
-    └── Ignored files and folders
+
+─attendance/
+  * Attendance data
+
+─ database/
+  * Database files
+
+─ known_faces/
+  * Registered face images
+
+─ unknown_faces/
+  * Unknown face images
+
+─ attendance.py
+  * Attendance management
+
+─ database.py
+  * Database operations
+
+─ recognition.py
+  * Face recognition
+
+─ register.py
+  * Face registration
+
+─ utils.py
+  * Utility functions
+
+─ main.py
+  * Main recognition system
+
+─ dashboard.py
+  * GUI dashboard
+
+─ app.py
+  * Application entry point
+
+─ requirements.txt
+  * Python dependencies
+
+─ README.md
+  * Project documentation
+
+─ .gitignore
+  * Ignored files and folders
